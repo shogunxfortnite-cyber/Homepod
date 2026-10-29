@@ -38,9 +38,27 @@ So for this project we would be using Kicad for designing the PCB.
 
 The connections for the schematic are like this.
 
-### Symbols
-For the esp 32 s3 we would be using the symbol of ESP32S3 Devkit C1
+##### Symbols
+For the esp 32 s3 we would be using the symbol of ESP32S3 Devkit C1.
 
-For the TFT we will use Conn_01x14_Pin
+For the TFT we will use Conn_01x14_Pin.
 
-For the joystick we will use Conn_01x05_Pin
+For the joystick we will use Conn_01x05_Pin.
+
+## Footprint assignment
+
+<img width="1259" height="713" alt="Screenshot 2026-10-29 183058" src="https://github.com/user-attachments/assets/33b6a808-4b65-4940-a7a3-d472b993cb91" />
+The assignments are shown here.
+
+## PCB and Routing 
+
+<img width="991" height="644" alt="Screenshot 2026-10-29 183318" src="https://github.com/user-attachments/assets/350d8589-1108-4a6e-b5c2-904476475d20" />
+
+The PCB is routed like this as shown here.
+
+## 3D view
+
+<img width="1725" height="931" alt="Screenshot 2026-10-29 183533" src="https://github.com/user-attachments/assets/048ec2a3-b52a-48f2-af32-6b3f6a855270" />
+
+
+# Built for half life
